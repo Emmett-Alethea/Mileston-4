@@ -1,0 +1,5 @@
+{"name":"Sword","description":"A dull sword","quantity":12,"cartQuant":0,"price":1.5,"damage":5}
+{"name":"Bow","description":"A simple wooden short bow","quantity":15,"cartQuant":0,"price":2.7,"damage":6}
+{"name":"Shield","description":"A wooden shield","quantity":3,"cartQuant":0,"price":3.1,"defense":5}
+{"name":"Helmet","description":"Protects your head","quantity":4,"cartQuant":0,"price":5.7,"defense":4}
+{"name":"Potion","description":"Restores 5 hp","quantity":10,"cartQuant":0,"price":5.1,"healthRestore":5}
